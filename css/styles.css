@@ -52,26 +52,22 @@ body {
   font-style: normal;
 }
 
-.contacts-content {
+.contacts-list {
   line-height: 150%;
   letter-spacing: 0.02em;
-  font-family: "Roboto", sans-serif;
-  font-weight: 400;
   font-size: 16px;
   color: #434455;
 }
 
-.mail {
-  font-family: "Roboto", sans-serif;
+.contact-link {
   font-weight: 400;
   font-size: 16px;
-
   /* line-height: 24px; */
   line-height: 150%;
   letter-spacing: 0.02em;
   color: #434455;
 }
-.mail :hover,
+.contact-link:hover,
 :focus {
   color: #404bbf;
 }
