@@ -1,12 +1,11 @@
-.body {
+body {
   font-family: "Roboto", sans-serif;
   font-size: 16px;
   color: #434455;
   background-color: #ffffff;
   margin: 0;
 }
-
-.header {
+= .header {
   background: #ffffff;
 }
 
